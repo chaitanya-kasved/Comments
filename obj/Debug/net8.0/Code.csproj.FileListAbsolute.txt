@@ -1,0 +1,14 @@
+/home/ubuntu/Desktop/Code/bin/Debug/net8.0/Code
+/home/ubuntu/Desktop/Code/bin/Debug/net8.0/Code.deps.json
+/home/ubuntu/Desktop/Code/bin/Debug/net8.0/Code.runtimeconfig.json
+/home/ubuntu/Desktop/Code/bin/Debug/net8.0/Code.dll
+/home/ubuntu/Desktop/Code/bin/Debug/net8.0/Code.pdb
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/Code.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/Code.AssemblyInfo.cs
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/Code.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/Code.dll
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/refint/Code.dll
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/Code.pdb
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/Code.genruntimeconfig.cache
+/home/ubuntu/Desktop/Code/obj/Debug/net8.0/ref/Code.dll
